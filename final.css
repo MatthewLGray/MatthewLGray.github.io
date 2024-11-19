@@ -48,4 +48,11 @@ img {
  	min-width: 90%;
  	margin-right: 10px;
  }
+ .alert-box {
+border-top: 2px solid #cc0000;
+border-right: 2px solid #cc0000;
+border-bottom: 2px solid #cc0000;
+border-left: 2px solid #cc0000;
+}
+
 }
