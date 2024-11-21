@@ -45,12 +45,12 @@ img {
  iframe {
  	min-width: 90%;
  	margin-right: 10px;
- }
- .alert-box {
-border-top: 2px solid #cc0000;
-border-right: 2px solid #cc0000;
-border-bottom: 2px solid #cc0000;
-border-left: 2px solid #cc0000;
 }
 
+ .footer p { /* This is how you add styles for only the p text within the footer. */
+	background-color: #lightgoldenrodyellow;
+	text-align: center;
+	font-size: 20px;
+	margin-bottom: 0;	
+}
 }
