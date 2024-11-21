@@ -45,7 +45,6 @@ img {
 }
 /*Don't worry about this section yet*/
 @media only screen and (max-width: 767px)
-{
  .list {
  	border: 2px solid darkslategray;
  	float: none;
@@ -64,5 +63,4 @@ img {
 	text-align: center;
 	font-size: 30px;
 	margin-bottom: 0;	
-}
 }
