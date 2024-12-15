@@ -60,10 +60,3 @@ img {
  	min-width: 90%;
  	margin-right: 10px;
 }
-
- .footer p { /* This is how you add styles for only the p text within the footer. */
-	background-color: #lightgoldenrodyellow;
-	text-align: center;
-	font-size: 30px;
-	margin-bottom: 0;	
-}
