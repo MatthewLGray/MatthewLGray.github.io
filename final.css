@@ -4,13 +4,6 @@ p {
 	font-family: 'Times New Roman', serif;
 	font-size: 20px;
 
-
-.footer p { /* This is how you add styles for only the p text within the footer. */
-	background-color: #cccccc;
-	text-align: center;
-	font-size: 20px;
-	margin-bottom: 0;
-}
 .header {
 	height: auto;
 	font-weight: bold;
@@ -19,6 +12,14 @@ p {
 	font-family: 'Oswald', serif;
 	background-color: #080357;
 	color: #D3D3D3;
+
+
+.footer p { /* This is how you add styles for only the p text within the footer. */
+	background-color: #cccccc;
+	text-align: center;
+	font-size: 20px;
+	margin-bottom: 0;
+}
 
 .caption {
   font-size: 14px;
