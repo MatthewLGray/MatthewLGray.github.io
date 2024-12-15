@@ -23,15 +23,15 @@ p {
 	text-align: center;
 	font-family: 'Oswald', serif;
 }
-
-.caption {
-  font-size: 14px;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-top: 5px;
-  color: slategray;
+figcaption {
+	float: right;
+  	margin-left: auto;
+  	margin-right: auto;
+  	font-family: 'Oswald', serif;
+  	font-size: 20px;
+  	background-color: #080357;
+	color: #D3D3D3;
 }
-
 h4 {
 	font-style: italic;
 	font-size: 40px;
