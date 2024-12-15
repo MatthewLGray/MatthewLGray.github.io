@@ -3,6 +3,7 @@
 p {
 	font-family: 'Times New Roman', serif;
 	font-size: 20px;
+}
 
 .header {
 	height: auto;
@@ -12,8 +13,8 @@ p {
 	font-family: 'Oswald', serif;
 	background-color: #080357;
 	color: #D3D3D3;
-
 }
+
 .footer p { /* This is how you add styles for only the p text within the footer. */
 	background-color: #cccccc;
 	text-align: center;
@@ -34,10 +35,12 @@ h4 {
 	font-size: 40px;
 	font-family: 'Oswald', serif;
 }
+
 h3 {
 	font-family: 'Oswald', serif;
 	font-size: 30px;
 }
+
 img {
 	float: right;
   	margin-left: auto;
