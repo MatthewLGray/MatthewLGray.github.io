@@ -18,7 +18,15 @@ p {
 	font-family: 'Oswald', serif;
 	background-color: #080357;
 	color: #D3D3D3;
+
+.caption {
+  font-size: 14px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 5px;
+  color: slategray;
 }
+
 h4 {
 	font-style: italic;
 	font-size: 40px;
@@ -32,7 +40,7 @@ img {
 	float: right;
   	margin-left: auto;
   	margin-right: auto;
-  	width: 100%;
+  	width: %;
 }
 
 // <uniquifier>: Use a unique and descriptive class name
@@ -45,14 +53,6 @@ img {
   font-style: normal;
 }
 /*Don't worry about this section yet*/
-@media only screen and (max-width: 767px)
- .list {
- 	border: 2px solid darkslategray;
- 	float: none;
- 	min-width: 90%;
- 	margin-left: 10px;
- 	margin-bottom: 30px;
- 	margin-top: 30px;
  }
  iframe {
  	min-width: 90%;
