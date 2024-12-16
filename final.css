@@ -24,16 +24,14 @@ p {
 	font-family: 'Oswald', serif;
 }
 
-figcaption {
-	float: right;
-	text-align: right;
-  	margin-left: auto;
-  	margin-right: auto;
-  	font-family: 'Oswald', serif;
-  	font-size: 12px;
-  	background-color: #080357;
-	color: #D3D3D3;
+.caption {
+  font-size: 14px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 5px;
+  color: slategray;
 }
+
 h4 {
 	font-style: italic;
 	font-size: 40px;
