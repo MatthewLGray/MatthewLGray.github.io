@@ -45,18 +45,11 @@ h3 {
 }
 
 img {
-	float: middle;
-	margin-left: 5%;
-	margin-right: 5%;
-}
-
-.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
-
 
 // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 200 to 700
