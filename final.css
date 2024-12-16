@@ -30,6 +30,7 @@ p {
   margin-right: 0px;
   margin-top: 5px;
   color: slategray;
+  float: right;
 }
 
 h4 {
@@ -44,7 +45,7 @@ h3 {
 }
 
 img {
-  float: left;
+  float: right;
 }
 
 
