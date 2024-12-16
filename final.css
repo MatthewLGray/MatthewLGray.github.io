@@ -46,8 +46,8 @@ h3 {
 img {
   float: left;
   margin-left: 10px;
-  margin-right: auto;
-  width: 90%;
+  margin-right: 10px;
+  width: 100%;
 }
 
 
