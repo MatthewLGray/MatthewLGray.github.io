@@ -45,7 +45,9 @@ h3 {
 }
 
 img {
-  float: right;
+	float: right;
+	margin-left: 5%;
+	margin-right: 5%;
 }
 
 
