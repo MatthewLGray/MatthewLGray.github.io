@@ -65,3 +65,8 @@ img {
  	margin-right: 10px;
  	width: 100%;
 }
+
+.button {
+	font-family: 'Kanit', serif;
+	font-size: 20px;
+}
