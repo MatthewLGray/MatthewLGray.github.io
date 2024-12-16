@@ -45,9 +45,16 @@ h3 {
 }
 
 img {
-	float: right;
+	float: middle;
 	margin-left: 5%;
 	margin-right: 5%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 
