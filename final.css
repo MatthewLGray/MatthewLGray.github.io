@@ -1,4 +1,7 @@
 /*This is the CSS page for our final template.*/
+body {
+	background-color:#7FFFD4
+}
 
 p {
 	font-family: 'Times New Roman', serif;
