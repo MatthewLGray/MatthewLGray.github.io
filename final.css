@@ -25,6 +25,7 @@ p {
 
 .caption {
  float: left;
+  color: #D3D3D3;
   margin-left: auto;
   margin-right: auto;
   width: 100%;
@@ -34,11 +35,13 @@ h4 {
 	font-style: italic;
 	font-size: 40px;
 	font-family: 'Kanit', serif;
+	color: #D3D3D3;
 }
 
 h3 {
 	font-family: 'Kanit', serif;
 	font-size: 30px;
+	color: #D3D3D3;
 }
 
 img {
@@ -51,8 +54,8 @@ img {
 // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 200 to 700
 
-.oswald-<uniquifier> {
-  font-family: "Oswald", sans-serif;
+.kanit-<uniquifier> {
+  font-family: "Kanit", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
